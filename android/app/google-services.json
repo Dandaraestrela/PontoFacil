@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "258049249836",
+    "firebase_url": "https://semanadacomputacao-e5eb3.firebaseio.com",
+    "project_id": "semanadacomputacao-e5eb3",
+    "storage_bucket": "semanadacomputacao-e5eb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258049249836:android:59f4a6ec0e322b6f",
+        "android_client_info": {
+          "package_name": "com.qrcodesdc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258049249836-pkpjdrfupkd7tlf08h9fraklkb250ntn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOoCe3BmfCIAHfZUYfFa_0zAKYBJnb480"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
