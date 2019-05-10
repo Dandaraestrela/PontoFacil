@@ -26,7 +26,7 @@ Configurações: editar perfil da pessoa
     Inicialmente, instala utilizando: yarn add react-redux & yarn add redux.
     Em seguida, cria 
 
-##Resumo
+## Resumo
 O aplicativo PontoFácil foi criado para a disciplina de Linguagens Formais, do curso de Ciência da Computação da Universidade Federal da Paraíba.
 
 ## Framework
