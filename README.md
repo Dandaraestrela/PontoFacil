@@ -41,9 +41,15 @@ A versão atual do aplicativo tem as funções de: visualizar calendário do mê
 
 ## Bibliotecas
 bibliotecas usadas até a versão atual:
+
 react-navigation
+
 react-native-action-button
+
 react-native-dialog
+
 react-native-calendars
+
 react-redux
+
 react-native-vector-icons/MaterialCommunityIcons (biblioteca para ícones)
